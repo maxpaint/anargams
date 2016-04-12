@@ -2,7 +2,7 @@
 
 2) cd target
 
-3) java -jar anagram.jar <txt-file-name>
+3) java -jar anagram.jar txt-file-name
 
 Performance:
 1) Filtering input dataset. My solution works only with unique set. English language contains only 1_000_000 words. And if try to upload 100 billion, unique words will be only 1_000_000 or less))
